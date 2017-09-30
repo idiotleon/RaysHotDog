@@ -32,10 +32,12 @@
     <Compile Include="Model\HotDog.cs" />
     <Compile Include="Model\HotDogGroup.cs" />
     <Compile Include="Repository\HotDogRepository.cs" />
+    <Compile Include="Service\HotDogDataService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Repository\" />
+    <Folder Include="Service\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>
