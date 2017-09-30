@@ -1,0 +1,9 @@
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/bin/iPhone/Debug/RaysHotDogs.exe
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/bin/iPhone/Debug/RaysHotDogs.pdb
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/device-builds/iphone8.4-11.0.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/device-builds/iphone8.4-11.0.1/actool/_PartialAppManifest.items
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/device-builds/iphone8.4-11.0.1/actool/_BundleResourceWithLogicalName.items
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/device-builds/iphone8.4-11.0.1/optimized/
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/RaysHotDogs.csproj.CoreCompileInputs.cache
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/RaysHotDogs.exe
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDogs/obj/iPhone/Debug/RaysHotDogs.pdb
