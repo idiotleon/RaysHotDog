@@ -1,10 +1,7 @@
 ﻿<Properties StartupConfiguration="{A5B01338-B3D0-45C7-83CF-CDBD4F7DC277}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RaysHotDog.Core/Model/HotDogGroup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RaysHotDog.Core/Repository/HotDogRepository.cs">
     <Files>
-      <File FileName="RaysHotDogs/AppDelegate.cs" Line="22" Column="58" />
-      <File FileName="RaysHotDog.Core/MyClass.cs" Line="7" Column="10" />
-      <File FileName="RaysHotDog.Core/Model/HotDog.cs" Line="19" Column="10" />
-      <File FileName="RaysHotDog.Core/Model/HotDogGroup.cs" Line="11" Column="18" />
+      <File FileName="RaysHotDog.Core/Repository/HotDogRepository.cs" Line="41" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.RaysHotDogs PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.f170537d79b424e875d5523c7a11889f282290a9">

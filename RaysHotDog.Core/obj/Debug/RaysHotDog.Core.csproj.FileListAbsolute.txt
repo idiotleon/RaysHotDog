@@ -1,0 +1,1 @@
+/Users/leon/Documents/Projects/Xamarin/RaysHotDogs/RaysHotDog.Core/obj/Debug/RaysHotDog.Core.csproj.CoreCompileInputs.cache
